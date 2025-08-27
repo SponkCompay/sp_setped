@@ -18,3 +18,5 @@ Limpia la memoria (por si quieres volver a usar).
 
 Funciona tanto con peds normales como con addons (si están en stream).
 Compatible con servidores standalone, ESX o QBCore (no depende del framework).
+
+posdata: este script fue creado para uso gratuito :D.
