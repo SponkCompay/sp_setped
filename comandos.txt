@@ -1,0 +1,17 @@
+✅ ¿Cómo funciona?
+
+✔ Cuando haces /setped pedModel:
+
+Guarda tu modelo actual, ropa y accesorios.
+
+Cambia tu skin al ped solicitado.
+
+✔ Cuando haces /resetped:
+
+Restaura el modelo original (hombre/mujer o cualquier otro).
+
+Restaura toda la ropa y accesorios que tenías.
+
+
+✅ Funciona tanto con peds normales como con addons (si están en stream).
+✅ Compatible con servidores standalone, ESX o QBCor.
